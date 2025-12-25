@@ -31,4 +31,4 @@
 3. Quan sát kết quả dự báo
 
 ## Tác giả
-Sinh viên Công nghệ Thông tin 
+Sinh viên Công nghệ Thông tin - Phạm Đức Thành
